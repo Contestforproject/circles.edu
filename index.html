@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <link rel="stylesheet" type="text/css" href="untitled_1.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <title> Circles </title>
+</head>
+<body>
+    <div class="bg" >
+
+        <ul >
+            <p class="top" style="color: aliceblue;position: absolute;bottom: 510px"><img src="https://i.ibb.co/mCmBkCK/61bebd9f-fe52-4652-8062-75900d15f165.jpg" width="100" height="100"> CIRCLES</p>
+            <button id="Haqqimizda" class="button"><li class="li1" style="font-family:verdana;">Haqqimizda</li></button>
+            <button id="KeçirilənTədbirlər" class="button"><li class="li1" style="font-family:verdana;">Keçirilən tədbirlər</li></button>
+            <button id="Heyət" class="button"><li class="li1" style="font-family:verdana;">Heyət</li></button>
+            <button id="Fotoqalereya" class="button"><li class="li1" style="font-family:verdana;">Fotoqalereya</li></button>
+            <button id="Videoqalereya" class="button"><li class="li1" style="font-family:verdana;">Videoqalereya</li></button>
+            <button id="Xəbərlər" class="button"><li class="li1" style="font-family:verdana;">Xəbərlər</li></button>
+
+
+
+        </ul>
+
+    </div>
+<div id="hub">
+    <h style="font-size: 20px;text-align: center">WELCOME TO THE CIRCLES</h>
+</div>
+<div id="Heyət1">
+
+
+</div>
+<div id="Fotoqalereya1">
+
+
+</div>
+<div id="Videoqalereya1">
+
+
+</div>
+<div id="Xəbərlər1">
+
+
+</div>
+<div id="KeçirilənTədbirlər1" style="display: none">
+
+    <h1>/*text*/</h1>
+
+
+</div>
+    <div id="Haqqimizda1" style="display: none">
+        <div style="text-align: center;">
+                <ul>
+                    <p1  ><img src="https://i.ibb.co/CbCXdwK/ff327c29-7e3a-47bc-92ae-6e5aac97d7e6.jpg" width="250" height="250"></p1>
+                    <p1  ><img src="https://i.ibb.co/sVJ1kHp/9788da18-07b3-44b0-aa58-7c6be7d8c18e.jpg" width="250" height="250"></p1>
+                </ul>
+            </div>
+        <h1 style="text-align: center; font-size: 50px">Haqqımızda</h1>
+        <div style="text-align: center">
+        <p1 class="center" >“Circles” Qeyri Kommersiya Platforması 13 İyun 2023 tarixində yaradılmış,<br>
+            1 Oktyabr 2023 tarixində 83 nömrəli məktəb-liseyin direktoru Almaz Bayramova tərəfindən təsdiqlənmişdir.Platformanın məqsədi:<br>
+            1)Müxtəlif layihələrin, yarmarkaların, yarışların, olimpiadların, imtahanların təşkili və yaradılması<br>
+            2)Məktəb(-lərin) müasirləşməsi 3)Şagirdlərdə məktəbə qarşı həvəs və əhvalın yüksək olması üçün tədbirlərin görülməsidir.<br>
+            Platformanın gedişatı haqqında ən son məlumatı “Xəbərlər” düyməsinə, şəkil və videoları izləmək üçün “Fotoqalereya” və “Videoqalereya” düymələrinə,<br>
+            komandamızla tanış olmaq üçün “Heyət” düyməsinə, keçirilən tədbirlərlə tanış olmaq üçün “Keçirilən tədbirlər” düyməsinə klikləyə bilərsiniz.<br>
+        </p1>
+        </div>
+</div>
+
+
+
+
+
+
+</body>
+<script src="slide.js"></script>
+</html>
